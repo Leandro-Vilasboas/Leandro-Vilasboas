@@ -19,7 +19,7 @@
 
 <!-- Distintivos de Linguagens e Habilidades -->
 <div style="display: inline_block" align="center"><br>
-  <img  alt="Leow-C#" src=![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  <img  alt="Leeow-C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">&nbsp;
 
 
 <!-- Parte inferior da página -->
