@@ -4,8 +4,8 @@
 <div align="center">
 
 ## Hi there! 👋 Eu sou Leandro Vilasboas
-👩🏻‍💻 Sou um desenvolvedor backend C#, apaixonado por tecnologia e com vontade de aprender cada vez mais.
-👩‍🎓 Cursando Bacharelado em Tecnologia da Informação na <a href="https://univesp.br"> <b>UNIVESP.</b></a>
+👩🏻‍💻 Sou um desenvolvedor backend C#, apaixonado por tecnologia e com vontade de aprender cada vez mais.<br>
+👩‍🎓 Cursando Bacharelado em Tecnologia da Informação na <a href="https://univesp.br"> <b>UNIVESP.</b></a><br>
 
 <!--
 **Leandro-Vilasboas/Leandro-Vilasboas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
