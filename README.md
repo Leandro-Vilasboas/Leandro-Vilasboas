@@ -1,12 +1,13 @@
 <!-- Parte superior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4079a8&text=Hello%20World!&fontAlignY=36&fontColor=FFFFFF"/>
 
+---
 <!-- Apresentação -->
 <div align="center">
 ## Hi there! 👋 Eu sou Leandro Vilasboas
 👩🏻‍💻 Sou um desenvolvedor backend C#, apaixonado por tecnologia e com vontade de aprender cada vez mais.✨<br>
 👩‍🎓 Cursando Bacharelado em Tecnologia da Informação na <a href="https://univesp.br"> <b>UNIVESP.✨</b></a><br>
-</div>
+</div><br>
 
 
 <!-- Stats -->
@@ -27,7 +28,7 @@
   <img  alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">&nbsp;
   <img  alt="AzureDevOps" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp;
   <img  alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
-  </div>
+  </div><br>
   
 
 <!-- Contato -->
