@@ -3,8 +3,8 @@
 
 ---
 <!-- Apresentação -->
-<div align="center">
-## Hi there! 👋 Eu sou Leandro Vilasboas
+## <div align="center">
+👋 Eu sou Leandro Vilasboas
 👩🏻‍💻 Sou um desenvolvedor backend C#, apaixonado por tecnologia e com vontade de aprender cada vez mais.✨<br>
 👩‍🎓 Cursando Bacharelado em Tecnologia da Informação na <a href="https://univesp.br"> <b>UNIVESP.✨</b></a><br>
 </div><br>
@@ -40,9 +40,9 @@
 
 <!-- Snake -->
 <picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leandro-Vilasboas/Leandro-Vilasboas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leandro-Vilasboas/Leandro-Vilasboas/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leandro-Vilasboas/Leandro-Vilasboas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leandro-Vilasboas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leandro-Vilasboas/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leandro-Vilasboas/output/github-contribution-grid-snake.svg">
 </picture>  
 
 
