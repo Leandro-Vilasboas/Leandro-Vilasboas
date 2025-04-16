@@ -4,9 +4,10 @@
 ---
 <!-- Apresentação -->
 <div align="center">
+
 ## 👋 width="24px"> Eu sou Leandro Vilasboas
-👩🏻‍💻 Sou um desenvolvedor backend C#, apaixonado por tecnologia e com vontade de aprender cada vez mais.✨<br>
-👩‍🎓 Cursando Bacharelado em Tecnologia da Informação na <a href="https://univesp.br"> <b>UNIVESP.✨</b></a><br>
+  👩🏻‍💻 Sou um desenvolvedor backend C#, apaixonado por tecnologia e com vontade de aprender cada vez mais.✨<br>
+  👩‍🎓 Cursando Bacharelado em Tecnologia da Informação na <a href="https://univesp.br"> <b>UNIVESP.✨</b></a><br>
 </div><br>
 
 
