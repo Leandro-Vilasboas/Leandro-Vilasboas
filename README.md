@@ -1,5 +1,5 @@
 <!-- Parte superior da página -->
-<img width="100%" src=https://capsule-render.vercel.app/api?type=waving&height=300&color=4079a8&text=Hello%20World!&fontAlignY=42&fontColor=FFFFFF=header"/>
+<img width="100%" src=https://capsule-render.vercel.app/api?type=waving&height=300&color=4079a8&text=Hello%20World!&fontAlignY=42&fontColor=FFFFFF&section=header"/>
 
 ## Hi there 👋
 
