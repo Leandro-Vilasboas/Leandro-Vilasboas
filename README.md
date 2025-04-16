@@ -1,14 +1,11 @@
-<!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=4079a8&text=Hello%20World!&fontAlignY=42&fontColor=FFFFFF&height=120&section=header"/>
-
----
-
+<!-- Parte superior da página -->'
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4079a8&text=Hello%20World!&fontAlignY=36&fontColor=FFFFFF"/>
-
 
 <div align="center">
 
 ## Hi there! 👋 Eu sou Leandro Vilasboas
+👩🏻‍💻 Sou um desenvolvedor backend C#, apaixonado por tecnologia e com vontade de aprender cada vez mais.
+👩‍🎓 Cursando Bacharelado em Tecnologia da Informação na <a href="https://univesp.br"> <b>UNIVESP.</b></a>
 
 <!--
 **Leandro-Vilasboas/Leandro-Vilasboas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Parte inferior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
